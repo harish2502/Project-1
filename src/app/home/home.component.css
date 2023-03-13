@@ -1,0 +1,41 @@
+#con{
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    background-color: bisque ;
+    margin: 0%;
+   
+
+
+}
+
+#hdg{
+  align-items: center;
+}
+
+.rdg{
+    border: 2px solid black;
+    padding: 6px 7px 6px ;
+    margin: 20px auto;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#the{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  a{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 4px 5px 4px;
+    background-color: black;
+    color: red;
+    border-radius: 5px;
+  }

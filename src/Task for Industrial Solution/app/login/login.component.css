@@ -1,0 +1,22 @@
+#body{
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aqua;
+}
+
+#container{
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+     justify-content: center;
+     box-shadow: 5px 4px 5px 5px rgba(0,0,0,0.5);
+     padding: 25px;
+}
+
+.input {
+    margin: 2px 5px 3px;
+    box-sizing: border-box;
+}
